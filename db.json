@@ -1,0 +1,104 @@
+{
+  "videos": [
+    {
+      "id": "9",
+      "caption": "Kannur Squad",
+      "url": "https://www.pinkvilla.com/images/2023-09/2027522090_kannur-squad-poster-1280-compressed.jpg",
+      "embedLink": "https://www.youtube.com/embed/j7uWUMd_ItE"
+    },
+    {
+      "id": "1",
+      "caption": "Kushi",
+      "url": "https://images.news9live.com/wp-content/uploads/2023/08/Untitled-design-16-2.jpg",
+      "embedLink": "https://www.youtube.com/embed/r27KLvpofZ8"
+    },
+    {
+      "id": "3",
+      "caption": "Brahmastra",
+      "url": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5040/1405040-h-745f9aa52bbc",
+      "embedLink": "https://www.youtube.com/embed/HxAX-JX97Ic"
+    },
+    {
+      "id": "4",
+      "caption": "Zindagi Na Milegi Dobara",
+      "url": "https://m.media-amazon.com/images/M/MV5BMzFlM2QxNjAtZTkzYS00ZGEzLTk5Y2YtMmI2YzNkNzg5M2Q1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX500_CR0,109,500,281_.jpg",
+      "embedLink": "https://www.youtube.com/embed/FJrpcDgC3zU"
+    },
+    {
+      "id": "14",
+      "caption": "Premam",
+      "url": "https://static.toiimg.com/thumb/msid-76087024,width-1280,resizemode-4/76087024.jpg",
+      "embedLink": "https://www.youtube.com/embed/pbgvTikmIMk"
+    },
+    {
+      "id": "15",
+      "caption": "Rocky Aur Rani Kii Prem Kahaani",
+      "url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00312549-zmajejrcee-landscape.jpg",
+      "embedLink": "https://www.youtube.com/embed/6mdxy3zohEk"
+    },
+    {
+      "id": "16",
+      "caption": "Pathaan",
+      "url": "https://lehren.com/wp-content/uploads/2023/01/Shah-Rukh-Khan-Pathaan-1.jpg",
+      "embedLink": "https://www.youtube.com/embed/vqu4z34wENw"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Favourites",
+      "allVideos": [
+        {
+          "id": "14",
+          "caption": "Premam",
+          "url": "https://static.toiimg.com/thumb/msid-76087024,width-1280,resizemode-4/76087024.jpg",
+          "embedLink": "https://www.youtube.com/embed/pbgvTikmIMk"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "16",
+          "caption": "Pathaan",
+          "url": "https://lehren.com/wp-content/uploads/2023/01/Shah-Rukh-Khan-Pathaan-1.jpg",
+          "embedLink": "https://www.youtube.com/embed/vqu4z34wENw"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Premam",
+      "embedLink": "https://www.youtube.com/embed/pbgvTikmIMk",
+      "timeStamp": "10/12/2023, 11:45:43 AM",
+      "id": 1
+    },
+    {
+      "caption": "Zindagi Na Milegi Dobara",
+      "embedLink": "https://www.youtube.com/embed/FJrpcDgC3zU",
+      "timeStamp": "10/12/2023, 11:46:14 AM",
+      "id": 3
+    },
+    {
+      "caption": "Kushi",
+      "embedLink": "https://www.youtube.com/embed/r27KLvpofZ8",
+      "timeStamp": "10/12/2023, 12:29:57 PM",
+      "id": 4
+    },
+    {
+      "caption": "Brahmastra",
+      "embedLink": "https://www.youtube.com/embed/HxAX-JX97Ic",
+      "timeStamp": "10/12/2023, 12:30:11 PM",
+      "id": 5
+    },
+    {
+      "caption": "Premam",
+      "embedLink": "https://www.youtube.com/embed/pbgvTikmIMk",
+      "timeStamp": "10/12/2023, 02:32:20 PM",
+      "id": 6
+    }
+  ]
+}
